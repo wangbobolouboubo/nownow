@@ -38,6 +38,6 @@ print(chen_fa(6, 5))
 print(chu_fa(6, 2))
 print(chu_fa(6, 2))
 # 怎么老有问题啊
-
+# 怎么老有问题啊
 
 

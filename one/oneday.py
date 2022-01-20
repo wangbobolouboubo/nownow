@@ -30,7 +30,9 @@ def chen_fa(a, b):
 def chu_fa(a, b):
     c = a * b
     return c
-
+def chu_fa(a, b):
+    c = a * b
+    return c
 
 print(add(11, 12))
 print(mun(11, 5))
